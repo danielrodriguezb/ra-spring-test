@@ -1,5 +1,5 @@
 {
-  "short_name": "React animations",
+  "short_name": "React animations test",
   "name": "React animations test",
   "icons": [
     {
@@ -10,6 +10,6 @@
   ],
   "start_url": "./index.html",
   "display": "standalone",
-  "theme_color": "#333333",
-  "background_color": "#FAFAFA"
+  "theme_color": "#54E46C",
+  "background_color": "#54E46C"
 }
